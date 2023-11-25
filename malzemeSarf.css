@@ -1,0 +1,38 @@
+.container .malzemeAdi {
+  display: flex;
+  margin-bottom: 20px;
+}
+.container .barkodNo {
+  display: flex;
+  margin-top: 20px;
+}
+.container .satisTarihi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .olcuBirimi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .paraBirimi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .satisBtn {
+  display: flex;
+  margin: 20px;
+}
+.container .miktar {
+  display: flex;
+  margin-top: 20px;
+}
+.container .birimFiyat {
+  display: flex;
+  margin-top: 20px;
+}
+.anaMenu {
+  margin: 20px;
+}
+.table {
+  margin-left: 100px;
+}

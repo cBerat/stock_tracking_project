@@ -1,0 +1,23 @@
+.container .barkodNo {
+  display: flex;
+  margin-top: 20px;
+}
+.container .malzemeAdi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .olcuBirimi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .kaydetBtn {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.table {
+  margin-left: 120px;
+}
+.anaMenu {
+  margin: 20px;
+}

@@ -1,0 +1,48 @@
+.table {
+  display: flex;
+  margin-top: 20px;
+}
+.anaMenu {
+  margin: 20px;
+}
+.container #malzemeAdi {
+  display: flex;
+  margin-top: 20px;
+}
+.container #barkodNo {
+  display: flex;
+  margin-top: 20px;
+}
+.container .alisTarihi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .olcuBirimi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .paraBirimi {
+  display: flex;
+  margin-top: 20px;
+}
+.container .kaydetBtn {
+  display: flex;
+  margin-top: 20px;
+}
+.container .miktar {
+  display: flex;
+  margin-top: 20px;
+}
+.container .birimFiyat {
+  display: flex;
+  margin-top: 20px;
+}
+
+.container #alinanFirma {
+  display: flex;
+  margin-top: 20px;
+}
+.table {
+  display: flex;
+  margin-left: 100px;
+}
